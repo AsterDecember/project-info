@@ -81,11 +81,11 @@ You app must:
    in order to make your app public **or your login won't work**
 
 Responsive design **is not a requirement**. <br>
-Wireframes or Mockups **are not a requirement**.
-Controllers **are not a requirement**
-Extremly modularity **is not a requirement**
-Order datamodel **is not a requirement**
-Environment Variables **are not a requirement**
+Wireframes or Mockups **are not a requirement**. <br>
+Controllers **are not a requirement**. <br>
+Extremly modularity **is not a requirement**. <br>
+Order datamodel **is not a requirement**. <br>
+Environment Variables **are not a requirement**. <br>
 
 
 Updated Deliverables
