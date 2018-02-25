@@ -4,7 +4,7 @@ Project #2: Full-stack Web Application
 Now that you are more familiar with the backend,
 you can make a complete Web application for your 2nd project.
 
-For this project, you can (optionally) **do this project in pairs**.
+For this project, you will **do this project in pairs**.
 
 Looking for Project #1? See the [Project #1 document](project-1.md).
 
@@ -25,33 +25,33 @@ Table of Contents
 Schedule
 --------
 
-### Tuesday - November 21st ###
-- **5:00 p.m.** - _Presentation Rehearsal #1_: About Your Project <br>
+### Monday - February 26th ###
+- **3:00 p.m.** - _Presentation Rehearsal #1_: About Your Project <br>
   For your first presentation rehearsal
   you should create your initial presentation
   as a short, 1-2 minute set of slides.
   Your slides only need to talk about **your project idea**. <br>
   [See Presentation Section](#presentations)
 
-### Wednesday - November 22nd ###
-- **5:00 p.m.** - _Presentation Rehearsal #2_: Slides With Structure <br>
+### Wednesday - February 28th ###
+- **3:00 p.m.** - _Presentation Rehearsal #2_: Slides With Structure <br>
   For the second presentation rehearsal
   you should change your short presentation into its final, 3 minute form.
   Your slides will have more structure and more content. <br>
   [See Final Presentation Structure](#final-presentation-structure)
 
-### Monday - November 27th ###
-- **5:00 p.m.** - _Presentation Rehearsal #3_: Demo <br>
+### Thursday - March 01st ###
+- **3:00 p.m.** - _Presentation Rehearsal #3_: Demo <br>
   For the third presentation rehearsal
   you should incorporate a demo of your live application at the end of your talk.
   Your presentation structure should be more or less the same,
   but you should make adjustments based on feedback from the previous day. <br>
   [See Demo Tips](#demo-tips)
 
-### Tuesday - November 28th ###
-- **5:00 p.m.** - **Project #2 Presentations** <br>
-  Finally, on Thursday it's time for your final presentation.
-  You will present your projects to the staff and other students.
+### Friday - March 02nd ###
+- **10:00 a.m.** - **Project #2 Presentations** <br>
+  Finally, on Friday it's time for your final presentation.
+  You will present your projects to the staff, judges and other students.
   Remember to dress at least one degree nicer than normal.
 
 
@@ -76,10 +76,16 @@ You app must:
    even if they aren't all for the same model.
 7. **Have a repo on GitHub**.
 8. Have at least **1 commit per day** that you worked on it.
-9. **Be deployed online** using Heroku, so anybody could use your app.
+9. **Be deployed online** using Heroku, so anybody could use your app. 
+   so if you are using Facebook login, do not forget to provide the politics doc
+   in order to make your app public **or your login won't work**
 
 Responsive design **is not a requirement**. <br>
-Wireframes **are not a requirement**.
+Wireframes or Mockups **are not a requirement**.
+Controllers **are not a requirement**
+Extremly modularity **is not a requirement**
+Order datamodel **is not a requirement**
+Environment Variables **are not a requirement**
 
 
 Updated Deliverables
@@ -105,8 +111,8 @@ You **won't** have to talk much about yourself or your background.
 You should still **introduce yourself briefly**.
 
 ### Format ###
-- Talking with Slides: **3 minutes**
-- Demo: **2 minutes**
+- Talking with Slides: **2 minutes**
+- Demo: **3 minutes**
 - Total: **5 minutes**
 
 ### Attire ###
@@ -192,7 +198,7 @@ Grading Criteria (same as on platform)
 
 - **Deployment**: Did you deploy your application to a public URL using GitHub Pages?
 
-- **Total**: Your instructors will give you a total score on your project between:
+- **Total**: Your instructor (BlisS) will give you a total score on your project between:
 
 Score | Expectations
 ----- | ------------
