@@ -83,7 +83,7 @@ You app must:
 Responsive design **is not a requirement**. <br>
 Wireframes or Mockups **are not a requirement**. <br>
 Controllers **are not a requirement**. <br>
-Extremly modularity **is not a requirement**. <br>
+extremely modularity **is not a requirement**. <br>
 Order datamodel **is not a requirement**. <br>
 Environment Variables **are not a requirement**. <br>
 
