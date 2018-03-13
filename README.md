@@ -54,13 +54,13 @@ Schedule
   but you should make adjustments based on feedback from the previous day. <br>
   [See Demo Tips](#demo-tips)
 
-### Thursday - March 22th ###
+### Thursday - March 22nd ###
 - **03:00 p.m.** - **Internal - Hackshow: WebDev Final Presentations** <br>
   Finally, on Tuesday it's time for your **last Ironhack project presentation**.
   You will present your projects to senior dev judges, staff and other students.
   Remember to dress at least one degree nicer than normal.
 
-### Friday - March 23th ###
+### Friday - March 23rd ###
 - **03:00 p.m.** - **Hackshow: UX Final Presentations**
   The winners are also having their final presentations on friday.
   All of us are expected to support them!
