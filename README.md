@@ -60,7 +60,7 @@ Schedule
   You will present your projects to senior dev judges, staff and other students.
   Remember to dress at least one degree nicer than normal.
 
-### Friday - March 23rd ###
+### Friday - March 23th ###
 - **03:00 p.m.** - **Hackshow: UX Final Presentations**
   The winners are also having their final presentations on friday.
   All of us are expected to support them!
