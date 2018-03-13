@@ -31,7 +31,7 @@ Table of Contents
 Schedule
 --------
 
-### Thursday - December 14th ###
+### Thursday - March 15th ###
 - **3:00 p.m.** - _Presentation Rehearsal #1_: About You & Your Project <br>
   For your first presentation rehearsal
   you should create your initial presentation
@@ -39,14 +39,14 @@ Schedule
   Your slides only need to talk about **you and your project idea**. <br>
   [See Presentation Section](#presentations)
 
-### Friday - December 15th ###
+### Monday - March 19th ###
 - **3:00 p.m.** - _Presentation Rehearsal #2_: Slides With Structure <br>
   For the second presentation rehearsal
   you should change your short presentation into its final, 3 minute form.
   Your slides will have more structure and more content. <br>
   [See Final Presentation Structure](#final-presentation-structure)
 
-### Monday - December 18th ###
+### Wednesday - March 21st ###
 - **3:00 p.m.** - _Presentation Rehearsal #3_: Demo <br>
   For the third presentation rehearsal
   you should incorporate a demo of your live application at the end of your talk.
@@ -54,18 +54,19 @@ Schedule
   but you should make adjustments based on feedback from the previous day. <br>
   [See Demo Tips](#demo-tips)
 
-### Tuesday - December 19th ###
-- **10:00 a.m.** - **Hackshow: WebDev Final Presentations** <br>
+### Thursday - March 22th ###
+- **03:00 p.m.** - **Internal - Hackshow: WebDev Final Presentations** <br>
   Finally, on Tuesday it's time for your **last Ironhack project presentation**.
   You will present your projects to senior dev judges, staff and other students.
   Remember to dress at least one degree nicer than normal.
 
-- **2:00 p.m.** - **Hackshow: UX Final Presentations**
-  The UX students are also having their final presentations on the same day.
+### Friday - March 23th ###
+- **03:00 p.m.** - **Hackshow: UX Final Presentations**
+  The winners are also having their final presentations on friday.
   All of us are expected to support them!
 
-- **5:00 p.m.** - **Graduation**
-  Both you and the UX students will have an Ironhack graduation ceremony!
+- **6:00 p.m.** - **Graduation**
+  All the students will have an Ironhack graduation ceremony!
 
 
 Updated Technical Requirements
@@ -86,16 +87,16 @@ You app must:
 6. **Include sign up, log in & log out functionality**
    with encrypted passwords (or social logins)
    and authorization (logged in users can do extra things).
-7. **Have _two_ repos on GitHub**.
-   One for your Angular application and the other for your Express API backend.
+7. **Have _two_ or _one_ repos on GitHub**.
+   One for your Angular application and the other for your Express API backend. But you can have one for both.
 8. Have at least **1 commit per day** that you worked on it.
 9. **Be deployed online** using Heroku, so anybody could use your app.
-10. **Be connected to your free .co domain**.
-    Ironhack will send you an email with your promo code
+10. **--Optional--Be connected to your free .co domain**.
+    Ironhack will not send you an email with your promo code
     and instructions on how to redeem it for your free .co domain.
 
 Responsive design **is not a requirement**. <br>
-Wireframes **are not a requirement**. <br>
+Wireframes or Mockups **are not a requirement**. <br>
 Full CRUD **is not a requirement**.
 
 
@@ -105,7 +106,7 @@ Updated Deliverables
 - A **working MEAN stack application, built by you** that runs on a server.
 - A **deploy of your app** on Heroku with a .co domain.
 - The **two URLs** of your **GitHub repositories** (Angular & Express).
-- The URL of the **live app on your .co domain**.
+- --Optional--The URL of the **live app on your .co domain**.
 - The URL of the **Heroku app**.
 - The URL of the **slides for your app's presentation**.
 - Your **GitHub repos** should have
