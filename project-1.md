@@ -24,31 +24,31 @@ Table of Contents
 Schedule
 --------
 
-### Tuesday - October 31st ###
-- **4:00 p.m.** - _Presentation Rehearsal #1_: About You & Your Project <br>
+### Monday - April 16th ###
+- **3:00 p.m.** - _Presentation Rehearsal #1_: About You & Your Project <br>
   For your first presentation rehearsal
   you should create your initial presentation
   as a short, 1-2 minute set of slides.
   Your slides only need to talk about you and your project idea. <br>
   [See Presentation Section](#presentations)
 
-### Wednesday - November 1st ###
-- **4:00 p.m.** - _Presentation Rehearsal #2_: Slides With Structure <br>
+### Wednesday - April 18th ###
+- **3:00 p.m.** - _Presentation Rehearsal #2_: Slides With Structure <br>
   For the second presentation rehearsal
   you should change your short presentation into its final, 3 minute form.
   Your slides will have more structure and more content. <br>
   [See Final Presentation Structure](#final-presentation-structure)
 
-### Thursday - November 2nd ###
-- **4:00 p.m.** - _Presentation Rehearsal #3_: Demo <br>
+### Thursday - April 19th ###
+- **3:00 p.m.** - _Presentation Rehearsal #3_: Demo <br>
   For the third presentation rehearsal
   you should incorporate a demo of your live game at the end of your talk.
   Your presentation structure should be more or less the same,
   but you should make adjustments based on feedback from the previous day. <br>
   [See Demo Tips](#demo-tips)
 
-### Friday - November 3rd ###
-- **5:00 p.m.** - **Project #1 Presentations** <br>
+### Friday - April 20th ###
+- **3:00 p.m.** - **Project #1 Presentations** <br>
   Finally, on Friday it's time for your final presentation.
   You will present your projects to the staff and other students.
   Remember to dress at least one degree nicer than normal.
