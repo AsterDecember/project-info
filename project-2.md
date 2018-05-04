@@ -25,7 +25,7 @@ Table of Contents
 Schedule
 --------
 
-### Monday - February 26th ###
+### Monday - May 7th ###
 - **3:00 p.m.** - _Presentation Rehearsal #1_: About Your Project <br>
   For your first presentation rehearsal
   you should create your initial presentation
@@ -33,14 +33,14 @@ Schedule
   Your slides only need to talk about **your project idea**. <br>
   [See Presentation Section](#presentations)
 
-### Wednesday - February 28th ###
+### Wednesday - May 9th ###
 - **3:00 p.m.** - _Presentation Rehearsal #2_: Slides With Structure <br>
   For the second presentation rehearsal
   you should change your short presentation into its final, 3 minute form.
   Your slides will have more structure and more content. <br>
   [See Final Presentation Structure](#final-presentation-structure)
 
-### Thursday - March 01st ###
+### Thursday - May 10th ###
 - **3:00 p.m.** - _Presentation Rehearsal #3_: Demo <br>
   For the third presentation rehearsal
   you should incorporate a demo of your live application at the end of your talk.
@@ -48,7 +48,7 @@ Schedule
   but you should make adjustments based on feedback from the previous day. <br>
   [See Demo Tips](#demo-tips)
 
-### Friday - March 02nd ###
+### Friday - May 11th ###
 - **10:00 a.m.** - **Project #2 Presentations** <br>
   Finally, on Friday it's time for your final presentation.
   You will present your projects to the staff, judges and other students.
