@@ -76,7 +76,7 @@ You app must:
 
 1. **Use React** for all of the user-facing parts of your application.
 2. **Use Express** for your **API backend**
-   that your Angular app will communicate with.
+   that your React app will communicate with.
 3. **Use Mongoose** for models and database communication.
 4. **Have 3 models _or more_**.
    Having one for users is a no-brainer.
@@ -88,9 +88,9 @@ You app must:
    with encrypted passwords (or social logins)
    and authorization (logged in users can do extra things).
 7. **Have _two_ or _one_ repos on GitHub**.
-   One for your Angular application and the other for your Express API backend. But you can have one for both.
+   One for your React application and the other for your Express API backend. But you can have one for both.
 8. Have at least **1 commit per day** that you worked on it.
-9. **Be deployed online** using Heroku, so anybody could use your app.
+9. **Be deployed online** using Heroku or Firebase, so anybody could use your app.
 10. **--Optional--Be connected to your free .co domain**.
     Ironhack will not send you an email with your promo code
     and instructions on how to redeem it for your free .co domain.
@@ -103,9 +103,9 @@ Full CRUD **is not a requirement**.
 Updated Deliverables
 --------------------
 
-- A **working MEAN stack application, built by you** that runs on a server.
+- A **working MERN stack application, built by you** that runs on a server.
 - A **deploy of your app** on Heroku with a .co domain.
-- The **two URLs** of your **GitHub repositories** (Angular & Express).
+- The **two URLs** of your **GitHub repositories** (React & Express).
 - --Optional--The URL of the **live app on your .co domain**.
 - The URL of the **Heroku app**.
 - The URL of the **slides for your app's presentation**.
