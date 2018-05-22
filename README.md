@@ -31,7 +31,7 @@ Table of Contents
 Schedule
 --------
 
-### Thursday - March 15th ###
+### Thursday - May 22nd ###
 - **3:00 p.m.** - _Presentation Rehearsal #1_: About You & Your Project <br>
   For your first presentation rehearsal
   you should create your initial presentation
@@ -39,14 +39,14 @@ Schedule
   Your slides only need to talk about **you and your project idea**. <br>
   [See Presentation Section](#presentations)
 
-### Monday - March 19th ###
+### Monday - May 28th ###
 - **3:00 p.m.** - _Presentation Rehearsal #2_: Slides With Structure <br>
   For the second presentation rehearsal
   you should change your short presentation into its final, 3 minute form.
   Your slides will have more structure and more content. <br>
   [See Final Presentation Structure](#final-presentation-structure)
 
-### Wednesday - March 21st ###
+### Wednesday - May 30th ###
 - **3:00 p.m.** - _Presentation Rehearsal #3_: Demo <br>
   For the third presentation rehearsal
   you should incorporate a demo of your live application at the end of your talk.
@@ -54,18 +54,18 @@ Schedule
   but you should make adjustments based on feedback from the previous day. <br>
   [See Demo Tips](#demo-tips)
 
-### Thursday - March 22nd ###
+### Thursday - May 31st ###
 - **03:00 p.m.** - **Internal - Hackshow: WebDev Final Presentations** <br>
   Finally, on Tuesday it's time for your **last Ironhack project presentation**.
   You will present your projects to senior dev judges, staff and other students.
   Remember to dress at least one degree nicer than normal.
 
-### Friday - March 23th ###
-- **03:00 p.m.** - **Hackshow: UX Final Presentations**
+### Friday - Jun 01st ###
+- **10:00 a.m.** - **Hackshow: UX Final Presentations**
   The winners are also having their final presentations on friday.
   All of us are expected to support them!
 
-- **6:00 p.m.** - **Graduation**
+- **12:00 p.m.** - **Graduation**
   All the students will have an Ironhack graduation ceremony!
 
 
