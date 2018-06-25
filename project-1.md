@@ -47,7 +47,7 @@ Schedule
   but you should make adjustments based on feedback from the previous day. <br>
   [See Demo Tips](#demo-tips)
 
-### Friday - April 29th ###
+### Friday - Jun 29th ###
 - **3:00 p.m.** - **Project #1 Presentations** <br>
   Finally, on Friday it's time for your final presentation.
   You will present your projects to the staff and other students.
