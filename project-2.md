@@ -25,7 +25,7 @@ Table of Contents
 Schedule
 --------
 
-### Monday - Jul 17th ###
+### Monday - Jul 16th ###
 - **3:00 p.m.** - _Presentation Rehearsal #1_: About Your Project <br>
   For your first presentation rehearsal
   you should create your initial presentation
