@@ -79,6 +79,7 @@ You app must:
 9. **Be deployed online** using Heroku, so anybody could use your app. 
    so if you are using Facebook login, do not forget to provide the politics doc
    in order to make your app public **or your login won't work**
+10. There will be extra points if you use your own domain like jordy69.com
 
 Responsive design **is not a requirement**. <br>
 Wireframes or Mockups **are not a requirement**. <br>
