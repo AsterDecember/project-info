@@ -1,4 +1,4 @@
-Project #3: MEAN Web Application
+Project #3: MERN Web Application
 ================================
 
 We're almost at the end of the journey.
@@ -31,7 +31,7 @@ Table of Contents
 Schedule
 --------
 
-### Tuesday - Jul 31st ###
+### Tuesday - Oct 9th ###
 - **3:00 p.m.** - _Presentation Rehearsal #1_: About You & Your Project <br>
   For your first presentation rehearsal
   you should create your initial presentation
@@ -39,28 +39,33 @@ Schedule
   Your slides only need to talk about **you and your project idea**. <br>
   [See Presentation Section](#presentations)
 
-### Friday - Aug 3th ###
+### Thursday - Oct 11st ###
 - **3:00 p.m.** - _Presentation Rehearsal #2_: Slides With Structure <br>
   For the second presentation rehearsal
   you should change your short presentation into its final, 3 minute form.
   Your slides will have more structure and more content. <br>
   [See Final Presentation Structure](#final-presentation-structure)
 
-### Monday - Aug 6th ###
-- **3:00 p.m.** - _Presentation Rehearsal #3_: Demo <br>
+### Monday - Oct 15th ###
+- **3:00 p.m.** - _Presentation Rehearsal #3_: Slides With Structure <br>
   For the third presentation rehearsal
   you should incorporate a demo of your live application at the end of your talk.
   Your presentation structure should be more or less the same,
   but you should make adjustments based on feedback from the previous day. <br>
   [See Demo Tips](#demo-tips)
 
-### Wednesday - Aug 8th ###
-- **03:00 p.m.** - **Internal - Hackshow: WebDev Final Presentations** <br>
+### Wednesday - Aug 17th ###
+- **3:00 p.m.** - _Presentation Rehearsal #3_: Demo <br>
   Finally, on Tuesday it's time for your **last Ironhack project presentation**.
   You will present your projects to senior dev judges, staff and other students.
   Remember to dress at least one degree nicer than normal.
 
-### Thursday - Aug 9th ###
+### Thursday - Aug 18th ###
+- **03:00 p.m.** - **Internal - Hackshow: WebDev Final Presentations** <br>
+  The winners are also having their final presentations at Uber!.
+  All of us are expected to support them!
+
+### Friday - Oct 19th ###
 - **06:30 p.m.** - **Hackshow: UX Final Presentations**
   The winners are also having their final presentations at Uber!.
   All of us are expected to support them!
