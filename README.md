@@ -79,7 +79,7 @@ Updated Technical Requirements
 
 You app must:
 
-1. **Use Angular** for all of the user-facing parts of your application.
+1. **Use ReactJs** for all of the user-facing parts of your application.
 2. **Use Express** for your **API backend**
    that your React app will communicate with.
 3. **Use Mongoose** for models and database communication.
