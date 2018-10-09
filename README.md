@@ -31,7 +31,7 @@ Table of Contents
 Schedule
 --------
 
-### Tuesday - Oct 9th ###
+### Wednesday - Oct 10th ###
 - **3:00 p.m.** - _Presentation Rehearsal #1_: About You & Your Project <br>
   For your first presentation rehearsal
   you should create your initial presentation
